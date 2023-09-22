@@ -45,4 +45,4 @@ In this assignment, we were provided with a sample file that held our dataset th
 
 All code was created by following examples from UO Data Analytics Bootcamp, and utilizing activities done while in class. 
 
-Github Pages Link: 
+Github Pages Link: https://stoddow313.github.io/Belly-Button-Challenge/
